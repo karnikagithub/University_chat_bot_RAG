@@ -35,7 +35,7 @@ Follow the steps below to set up and run the chatbot.
 
 1. Clone the Repository
 Start by cloning the project repository:
-git clone https://github.com/yourusername/university-chatbot.git
+git clone https://github.com/karnikagithub/University_chat_bot_RAG.git
 cd university-chatbot
 
 2. Install Dependencies
