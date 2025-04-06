@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchainhub
+google-generativeai
+beautifulsoup4
+requests
+streamlit
+tqdm
+python-dotenv
+faiss-cpu
+langchain-openai
+langchain-google-ai
+streamlit-chat
